@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.mynav a {
+  margin-right: 30px;
+  color: #FFFF00;
+  border-bottom: solid 2px transparent;
+}
+
+.mynav a:hover {
+  border-bottom: 2px solid #FFFF00;
+}
+
+.active a {
+  border-bottom: 2px solid #FFFF00;
+}
+
+.section-imagen {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Assets/paisaje.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 700px;
+}
+
+.section-imagen h1 {
+  position: absolute;
+  width: 90%;
+  text-align: center;
+  top: 40%;
+  left: 50%;
+  color: rgb(255, 255, 255);
+  transform: translate(-50%, -50%);
+  font-size: 58px;
+  font-weight: bold;
+}
+
+.section-imagen p {
+  position: absolute;
+  width: 90%;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  color: rgb(255, 255, 255);
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.pEdit {
+  margin: 15px;
+  width: 10%;
+  max-width: 800px;
+}
+
+/*# sourceMappingURL=estilo.css.map */
