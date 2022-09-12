@@ -1,5 +1,5 @@
 # PROYECTO FINAL CODERHOUSE 
-(sin terminar)
+(falta hostear)
 Este proyecto final, mi primer proyecto, trata de un sitio web dirigido a un grupo de scout, cuenta con varias secciones dentro de ella encontraremos, "scoutismo", "galeria", "formulario", etc. Y podremos recorrer cada unas de ellas con la informacion detallada de la misma. Se busco hacer un diseño minimalista combinando colores apagados para ser mas agradable a la vista al usuario.
 
 # SKILLS USADAS
