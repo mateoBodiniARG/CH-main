@@ -394,11 +394,17 @@ h5 {
     left: 48%;
   }
 }
-@media (max-width: 600px) {
+// @media (max-width: 600px) {
+//   .description-prod p {
+//     width: 301px;
+//   }
+// }
+@media (max-width: 539px) {
   .description-prod p {
-    width: 301px;
+    width: 470px;
   }
 }
+
 
 @media (max-width: 600px) {
   h5 {
