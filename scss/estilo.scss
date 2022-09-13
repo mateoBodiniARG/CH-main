@@ -405,6 +405,18 @@ h5 {
   }
 }
 
+@media (max-width: 375) {
+  .description-prod p {
+    width: 313px;
+  }
+}
+
+@media (max-width: 390px) {
+  .description-prod p {
+    width: 333px;
+  }
+}
+
 
 @media (max-width: 600px) {
   h5 {
